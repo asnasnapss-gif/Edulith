@@ -1,0 +1,2 @@
+# Edulith
+Academic Information System
